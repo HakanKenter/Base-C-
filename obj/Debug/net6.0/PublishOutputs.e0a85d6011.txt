@@ -1,0 +1,5 @@
+/Users/kenter/Documents/hakan-Kenter/Projet-perso/C#/FirstApp/bin/Debug/net6.0/publish/FirstApp
+/Users/kenter/Documents/hakan-Kenter/Projet-perso/C#/FirstApp/bin/Debug/net6.0/publish/FirstApp.dll
+/Users/kenter/Documents/hakan-Kenter/Projet-perso/C#/FirstApp/bin/Debug/net6.0/publish/FirstApp.deps.json
+/Users/kenter/Documents/hakan-Kenter/Projet-perso/C#/FirstApp/bin/Debug/net6.0/publish/FirstApp.runtimeconfig.json
+/Users/kenter/Documents/hakan-Kenter/Projet-perso/C#/FirstApp/bin/Debug/net6.0/publish/FirstApp.pdb
